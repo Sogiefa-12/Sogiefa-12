@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sogiefa-12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sarah Imarhenakhue Ogiefa
+- 👀 I’m interested in current affairs, inspiring music and socializing with family and friends
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on backend development
+- 📫 How to reach me on sogiefa2@gmail.com
 
 <!---
 Sogiefa-12/Sogiefa-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
